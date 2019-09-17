@@ -8,5 +8,5 @@ print("hello, " + name1)
 print(len(name2))
 print(name2 + " has " + str(len(name2)) + " characters in their name!")
 
-age1 = "Killian"
+age1 = "16"
 print("My" (name3 + " is " + str(len(age1)) + " years old!" )
